@@ -10,3 +10,4 @@
         name: arista.avd.cv_deploy
       vars:
         cv_run_change_control: true
+        cv_server: "atd-telesat-day3-18-ba22a862-eos.topo.testdrive.arista.com"
